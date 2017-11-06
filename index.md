@@ -3,4 +3,4 @@
      <button onclick="location.href='https://jfccoding12.github.io/website/CVE-2017-7042.html'" type="button">
      2</button>
  <button onclick="location.href='https://jfccoding12.github.io/website/CVE-2017-7049.html'" type="button">
-     2</button>     
+     3</button>     
